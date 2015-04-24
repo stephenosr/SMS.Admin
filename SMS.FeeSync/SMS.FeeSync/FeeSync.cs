@@ -19,6 +19,7 @@ namespace SMS.FeeSync
         public int EventType { get; set; }
         public DateTime PaidDate{ get; set; }
         public string URL { private get; set; }
+        public Int64 EventID { private get; set; }
         public string FeeReceipt { get; set; }
         public string StudenID { get; set; }
 

@@ -70,8 +70,8 @@ namespace SMS.FeeSync
                         EventBlob = l.EventBlob,
                         EventDate = l.PaidDate,
                         StudentID = l.StudentID,
-                        EvetType = l.EventType
-
+                        EventType = l.EventType,
+                        EventID = l.EventID
                     }
                 );
 
@@ -82,17 +82,27 @@ namespace SMS.FeeSync
                 oSync.PaidDate = oFeeDetail.EventDate;
 
                 oSync.StudenID = oFeeDetail.StudentID;
-                oSync.EventType = oFeeDetail.EvetType;
+                oSync.EventType = oFeeDetail.EventType;
+                oSync.EventID = oFeeDetail.EventID;
 
                 HttpResponseMessage oSyncReturn = oSync.SyncRegisterFee();
                 if (oSyncReturn.IsSuccessStatusCode)
                 {
                     Console.WriteLine(string.Format("Student - {0} fee paid {1} ", oFeeDetail.StudentID, oFeeDetail.EventBlob));
+
+                    CleanFeeDetails oFeeCleanup = new CleanFeeDetails();
+                    if(oFeeCleanup.ClearPendingSync(oFeeDetail.EventID))
+                    {
+                        //Log error here if delete is not done..
+                        Console.WriteLine("Unable to delete {0}", oFeeDetail.EventID);
+
+                    }
+
                 }
                 else
                 {
                     //This is not needed as only the log on the server side will indicate the successfull registry of the event.
-                    Console.WriteLine(string.Format("Failure sync for receipt {0}", oSync.FeeReceipt));
+                    Console.WriteLine(string.Format("Failure sync for receipt {0} - Event {1}", oSync.FeeReceipt, oFeeDetail.EventID));
                     //
                     //Log error here.
                 }
