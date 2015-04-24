@@ -1,0 +1,13 @@
+F:\Projects\Brightsword\SMSv2\SMS.Offline.Admin\SMS.FeeSync\SMS.FeeSync.Reposit\bin\Debug\SMS.FeeSync.Repository.dll
+F:\Projects\Brightsword\SMSv2\SMS.Offline.Admin\SMS.FeeSync\SMS.FeeSync.Reposit\bin\Debug\SMS.FeeSync.Repository.pdb
+F:\Projects\Brightsword\SMSv2\SMS.Offline.Admin\SMS.FeeSync\SMS.FeeSync.Reposit\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+F:\Projects\Brightsword\SMSv2\SMS.Offline.Admin\SMS.FeeSync\SMS.FeeSync.Reposit\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+F:\Projects\Brightsword\SMSv2\SMS.Offline.Admin\SMS.FeeSync\SMS.FeeSync.Reposit\bin\Debug\Microsoft.Practices.Unity.dll
+F:\Projects\Brightsword\SMSv2\SMS.Offline.Admin\SMS.FeeSync\SMS.FeeSync.Reposit\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+F:\Projects\Brightsword\SMSv2\SMS.Offline.Admin\SMS.FeeSync\SMS.FeeSync.Reposit\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+F:\Projects\Brightsword\SMSv2\SMS.Offline.Admin\SMS.FeeSync\SMS.FeeSync.Reposit\bin\Debug\Microsoft.Practices.Unity.pdb
+F:\Projects\Brightsword\SMSv2\SMS.Offline.Admin\SMS.FeeSync\SMS.FeeSync.Reposit\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+F:\Projects\Brightsword\SMSv2\SMS.Offline.Admin\SMS.FeeSync\SMS.FeeSync.Reposit\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+F:\Projects\Brightsword\SMSv2\SMS.Offline.Admin\SMS.FeeSync\SMS.FeeSync.Reposit\obj\Debug\SMS.FeeSync.Repository.dll
+F:\Projects\Brightsword\SMSv2\SMS.Offline.Admin\SMS.FeeSync\SMS.FeeSync.Reposit\obj\Debug\SMS.FeeSync.Repository.pdb
+F:\Projects\Brightsword\SMSv2\SMS.Offline.Admin\SMS.FeeSync\SMS.FeeSync.Reposit\obj\Debug\SMS.FeeSync.Repository.csprojResolveAssemblyReference.cache

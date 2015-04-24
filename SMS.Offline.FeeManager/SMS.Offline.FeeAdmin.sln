@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SMS.Offline.FeeManager", "SMS.Offline.FeeManager\SMS.Offline.FeeManager.csproj", "{73C4D5B0-C23D-44C6-88B1-76AA19CCC818}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SMS.Offline.Repository", "SMS.Offline.Repository\SMS.Offline.Repository.csproj", "{C9BA6252-4B71-4056-A369-DE74DD74874B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73C4D5B0-C23D-44C6-88B1-76AA19CCC818}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73C4D5B0-C23D-44C6-88B1-76AA19CCC818}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73C4D5B0-C23D-44C6-88B1-76AA19CCC818}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73C4D5B0-C23D-44C6-88B1-76AA19CCC818}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9BA6252-4B71-4056-A369-DE74DD74874B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9BA6252-4B71-4056-A369-DE74DD74874B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9BA6252-4B71-4056-A369-DE74DD74874B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9BA6252-4B71-4056-A369-DE74DD74874B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

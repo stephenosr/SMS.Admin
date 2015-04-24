@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SMS.FeeSync", "SMS.FeeSync\SMS.FeeSync.csproj", "{0F6252C3-C153-48D3-8961-82D95A37C50C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SMS.FeeSync.Repository", "SMS.FeeSync.Reposit\SMS.FeeSync.Repository.csproj", "{8BF72E24-FAF4-433E-A135-5AB83EFE9AFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SMS.FeeSync.Def", "SMS.FeeSyncDef\SMS.FeeSync.Def.csproj", "{8D619C89-9784-4FD6-AAD6-3A5FB2073D20}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SMS.SyncCommunicator", "SMS.SyncCommunicator\SMS.SyncCommunicator\SMS.SyncCommunicator.csproj", "{8F7A8A37-6F2D-4784-B683-9D583F614470}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F6252C3-C153-48D3-8961-82D95A37C50C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F6252C3-C153-48D3-8961-82D95A37C50C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F6252C3-C153-48D3-8961-82D95A37C50C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F6252C3-C153-48D3-8961-82D95A37C50C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BF72E24-FAF4-433E-A135-5AB83EFE9AFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BF72E24-FAF4-433E-A135-5AB83EFE9AFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BF72E24-FAF4-433E-A135-5AB83EFE9AFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BF72E24-FAF4-433E-A135-5AB83EFE9AFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D619C89-9784-4FD6-AAD6-3A5FB2073D20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D619C89-9784-4FD6-AAD6-3A5FB2073D20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D619C89-9784-4FD6-AAD6-3A5FB2073D20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D619C89-9784-4FD6-AAD6-3A5FB2073D20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F7A8A37-6F2D-4784-B683-9D583F614470}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F7A8A37-6F2D-4784-B683-9D583F614470}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F7A8A37-6F2D-4784-B683-9D583F614470}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F7A8A37-6F2D-4784-B683-9D583F614470}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

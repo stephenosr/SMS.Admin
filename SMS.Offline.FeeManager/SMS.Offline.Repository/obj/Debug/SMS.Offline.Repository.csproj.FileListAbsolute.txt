@@ -1,0 +1,15 @@
+F:\Projects\Brightsword\SMSv2\SMS.Offline.Admin\SMS.Offline.FeeManager\SMS.Offline.Repository\obj\Debug\SMS.Offline.Repository.csprojResolveAssemblyReference.cache
+F:\Projects\Brightsword\SMSv2\SMS.Offline.Admin\SMS.Offline.FeeManager\SMS.Offline.Repository\bin\Debug\SMS.Offline.Repository.dll
+F:\Projects\Brightsword\SMSv2\SMS.Offline.Admin\SMS.Offline.FeeManager\SMS.Offline.Repository\bin\Debug\SMS.Offline.Repository.pdb
+F:\Projects\Brightsword\SMSv2\SMS.Offline.Admin\SMS.Offline.FeeManager\SMS.Offline.Repository\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+F:\Projects\Brightsword\SMSv2\SMS.Offline.Admin\SMS.Offline.FeeManager\SMS.Offline.Repository\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+F:\Projects\Brightsword\SMSv2\SMS.Offline.Admin\SMS.Offline.FeeManager\SMS.Offline.Repository\bin\Debug\Newtonsoft.Json.dll
+F:\Projects\Brightsword\SMSv2\SMS.Offline.Admin\SMS.Offline.FeeManager\SMS.Offline.Repository\bin\Debug\Microsoft.Practices.Unity.dll
+F:\Projects\Brightsword\SMSv2\SMS.Offline.Admin\SMS.Offline.FeeManager\SMS.Offline.Repository\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+F:\Projects\Brightsword\SMSv2\SMS.Offline.Admin\SMS.Offline.FeeManager\SMS.Offline.Repository\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+F:\Projects\Brightsword\SMSv2\SMS.Offline.Admin\SMS.Offline.FeeManager\SMS.Offline.Repository\bin\Debug\Newtonsoft.Json.xml
+F:\Projects\Brightsword\SMSv2\SMS.Offline.Admin\SMS.Offline.FeeManager\SMS.Offline.Repository\bin\Debug\Microsoft.Practices.Unity.pdb
+F:\Projects\Brightsword\SMSv2\SMS.Offline.Admin\SMS.Offline.FeeManager\SMS.Offline.Repository\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+F:\Projects\Brightsword\SMSv2\SMS.Offline.Admin\SMS.Offline.FeeManager\SMS.Offline.Repository\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+F:\Projects\Brightsword\SMSv2\SMS.Offline.Admin\SMS.Offline.FeeManager\SMS.Offline.Repository\obj\Debug\SMS.Offline.Repository.dll
+F:\Projects\Brightsword\SMSv2\SMS.Offline.Admin\SMS.Offline.FeeManager\SMS.Offline.Repository\obj\Debug\SMS.Offline.Repository.pdb

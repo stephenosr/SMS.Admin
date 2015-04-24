@@ -1,0 +1,5 @@
+F:\Projects\Brightsword\SMSv2\SMS.Offline.Admin\SMS.FeeSync\SMS.FeeSyncDef\bin\Debug\SMS.FeeSync.Def.dll
+F:\Projects\Brightsword\SMSv2\SMS.Offline.Admin\SMS.FeeSync\SMS.FeeSyncDef\bin\Debug\SMS.FeeSync.Def.pdb
+F:\Projects\Brightsword\SMSv2\SMS.Offline.Admin\SMS.FeeSync\SMS.FeeSyncDef\obj\Debug\SMS.FeeSync.Def.dll
+F:\Projects\Brightsword\SMSv2\SMS.Offline.Admin\SMS.FeeSync\SMS.FeeSyncDef\obj\Debug\SMS.FeeSync.Def.pdb
+F:\Projects\Brightsword\SMSv2\SMS.Offline.Admin\SMS.FeeSync\SMS.FeeSyncDef\obj\Debug\SMS.FeeSync.Def.csprojResolveAssemblyReference.cache
