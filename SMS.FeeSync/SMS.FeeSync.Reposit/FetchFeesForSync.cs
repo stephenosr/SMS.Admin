@@ -18,6 +18,7 @@ namespace SMS.FeeSync.Repository
         public int EventType;
         public DateTime PaidDate;
         public string StudentID;
+        public Int64 EventID;
     }
 
     public class FetchFeesForSync
@@ -42,7 +43,8 @@ namespace SMS.FeeSync.Repository
                               EventBlob = row["EventData"].ToString(),
                               EventType = int.Parse(row["EventType"].ToString()),
                               PaidDate = (DateTime)row["DateRaised"],
-                              StudentID = row["StudentID"].ToString()
+                              StudentID = row["StudentID"].ToString(),
+                              EventID = Int64.Parse(row["EventID"].ToString())
                           }).ToList();
                 return oFeeSync;
             }

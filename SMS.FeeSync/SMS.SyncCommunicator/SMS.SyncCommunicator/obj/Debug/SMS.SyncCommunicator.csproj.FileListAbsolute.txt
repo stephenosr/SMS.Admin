@@ -1,4 +1,3 @@
-F:\Projects\Brightsword\SMSv2\SMS.Offline.Admin\SMS.FeeSync\SMS.SyncCommunicator\SMS.SyncCommunicator\obj\Debug\SMS.SyncCommunicator.csprojResolveAssemblyReference.cache
 F:\Projects\Brightsword\SMSv2\SMS.Offline.Admin\SMS.FeeSync\SMS.SyncCommunicator\SMS.SyncCommunicator\bin\Debug\SMS.SyncCommunicator.dll
 F:\Projects\Brightsword\SMSv2\SMS.Offline.Admin\SMS.FeeSync\SMS.SyncCommunicator\SMS.SyncCommunicator\bin\Debug\SMS.SyncCommunicator.pdb
 F:\Projects\Brightsword\SMSv2\SMS.Offline.Admin\SMS.FeeSync\SMS.SyncCommunicator\SMS.SyncCommunicator\bin\Debug\ImranB.SystemNetHttp.HttpClientExtensions.dll
@@ -9,5 +8,6 @@ F:\Projects\Brightsword\SMSv2\SMS.Offline.Admin\SMS.FeeSync\SMS.SyncCommunicator
 F:\Projects\Brightsword\SMSv2\SMS.Offline.Admin\SMS.FeeSync\SMS.SyncCommunicator\SMS.SyncCommunicator\bin\Debug\ImranB.SystemNetHttp.HttpClientExtensions.xml
 F:\Projects\Brightsword\SMSv2\SMS.Offline.Admin\SMS.FeeSync\SMS.SyncCommunicator\SMS.SyncCommunicator\bin\Debug\Newtonsoft.Json.xml
 F:\Projects\Brightsword\SMSv2\SMS.Offline.Admin\SMS.FeeSync\SMS.SyncCommunicator\SMS.SyncCommunicator\bin\Debug\System.Net.Http.Formatting.xml
+F:\Projects\Brightsword\SMSv2\SMS.Offline.Admin\SMS.FeeSync\SMS.SyncCommunicator\SMS.SyncCommunicator\obj\Debug\SMS.SyncCommunicator.csprojResolveAssemblyReference.cache
 F:\Projects\Brightsword\SMSv2\SMS.Offline.Admin\SMS.FeeSync\SMS.SyncCommunicator\SMS.SyncCommunicator\obj\Debug\SMS.SyncCommunicator.dll
 F:\Projects\Brightsword\SMSv2\SMS.Offline.Admin\SMS.FeeSync\SMS.SyncCommunicator\SMS.SyncCommunicator\obj\Debug\SMS.SyncCommunicator.pdb

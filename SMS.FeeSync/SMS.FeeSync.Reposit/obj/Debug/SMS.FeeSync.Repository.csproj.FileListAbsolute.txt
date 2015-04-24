@@ -10,4 +10,3 @@ F:\Projects\Brightsword\SMSv2\SMS.Offline.Admin\SMS.FeeSync\SMS.FeeSync.Reposit\
 F:\Projects\Brightsword\SMSv2\SMS.Offline.Admin\SMS.FeeSync\SMS.FeeSync.Reposit\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
 F:\Projects\Brightsword\SMSv2\SMS.Offline.Admin\SMS.FeeSync\SMS.FeeSync.Reposit\obj\Debug\SMS.FeeSync.Repository.dll
 F:\Projects\Brightsword\SMSv2\SMS.Offline.Admin\SMS.FeeSync\SMS.FeeSync.Reposit\obj\Debug\SMS.FeeSync.Repository.pdb
-F:\Projects\Brightsword\SMSv2\SMS.Offline.Admin\SMS.FeeSync\SMS.FeeSync.Reposit\obj\Debug\SMS.FeeSync.Repository.csprojResolveAssemblyReference.cache

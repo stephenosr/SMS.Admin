@@ -47,6 +47,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ClearFeePayEvents.cs" />
     <Compile Include="FetchFeesForSync.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
